@@ -14,6 +14,11 @@ Futura Desenvolvedora Full Stack cursando Análise e Desenvolvimento de Sistemas
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=purple)
 ![Git](https://img.shields.io/badge/GIT-002?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-002?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/java-002?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-002?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-002?style=for-the-badge&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-002?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## GitHub Status
 
